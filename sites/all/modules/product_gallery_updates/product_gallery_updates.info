@@ -1,0 +1,8 @@
+name = Product Gallery Updates
+description = Updates to Product Gallery
+core = 7.x
+package = Products
+version = 7.x-1.1
+project = product_gallery_updates
+features[features_api][] = api:2
+features[features_overrides][] = views_view.product_gallery.display|default|display_options|fields|title
