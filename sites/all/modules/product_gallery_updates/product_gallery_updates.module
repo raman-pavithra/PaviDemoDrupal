@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Product Gallery Updates feature.
+ */
+
+include_once 'product_gallery_updates.features.inc';
