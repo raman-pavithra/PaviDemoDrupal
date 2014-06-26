@@ -1,4 +1,4 @@
-Test merging
+Test merging 1
 CONTENTS OF THIS FILE
 ---------------------
 
