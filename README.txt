@@ -1,4 +1,4 @@
-Test merging 1
+Test merging issue 123
 CONTENTS OF THIS FILE
 ---------------------
 
